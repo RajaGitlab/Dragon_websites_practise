@@ -1,0 +1,61 @@
+
+p{
+ 
+    font-family: Roboto;
+
+}
+
+
+.p_title{
+ 
+ font-weight: bold;
+ font-size: 18px;
+ width:300px;
+ line-height: 24px;
+ margin-bottom: 5px;
+}
+
+.p_mid{
+  margin-top: 0px;
+  margin-bottom: 30px;
+}
+
+.p_marqu{
+    
+    font-size: 14px;
+    color: rgb(96,96, 96);
+    margin-top:0;
+            
+}
+
+.p_bott{
+   
+    font-size: 14px;
+    color: rgb(100,100, 100);
+    margin-top:0;
+    margin-bottom:20px;
+    width: 280px;
+    line-height: 22px;
+}
+
+.p_shopp_link{
+  
+   border-top:0px;
+   background-color: rgb(227 ,65,64);
+   padding-top: 15px;
+   padding-bottom: 15px;
+   text-align: center;
+   width: 500px;
+
+   
+}
+.shopp_span_example{
+   
+   cursor: pointer; 
+   margin-left: 10px;
+}   
+.shopp_span_example:hover{
+   
+    
+    text-decoration: underline;
+}
